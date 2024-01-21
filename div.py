@@ -1,3 +1,3 @@
 a = 5
 b = 7
-print(b/a)
+print("Divide is ",b/a)
